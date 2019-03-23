@@ -14,4 +14,5 @@
 **Лабораторная работа №2**
 
 **Рубежный контроль №1**
-[Ссылка на colab](https://github.com/matshch/iu5_ml_course)
+1. [Ссылка на colab](https://colab.research.google.com/gist/ZOORoman/1030bc7c357f9cb5ec3333975f03912f/rk_-1_bushuev.ipynb)
+2. [Ссылка на папку с данными](/lab1)
