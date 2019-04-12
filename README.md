@@ -12,7 +12,7 @@
 
 
 **Лабораторная работа №2**
-1. [Изучение библиотек обработки данных](-lab2_repo/Lab2.ipynb - Colaboratory.pdf)
+1. ([Изучение библиотек обработки данных](/-lab2_repo/Lab2.ipynb - Colaboratory.pdf))
 2. [Cсылка на colab](https://drive.google.com/open?id=1o_oc0tVqH1g7f20VO4KHWHp_EI22qOWZ)
 3. [Cсылка на git lab2](https://github.com/ZOORoman/-lab2_repo/blob/master/Lab2.ipynb)
 
