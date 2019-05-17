@@ -24,6 +24,12 @@
 3. [Cсылка на git](https://github.com/ZOORoman/MMO/blob/master/Lab3_ML.ipynb)
 4. [pdf отчет](/Lab3_ML.pdf)
 
+**Лабораторная работа №4**
+1. [Подготовка обучающей и тестовой выборки, кросс-валидация и подбор гиперпараметров на примере метода ближайших соседей.](https://github.com/ugapanyuk/ml_course/wiki/LAB_KNN)
+2. [Cсылка на colab](https://drive.google.com/open?id=1gk5YNQNhJnd8m8glktv-7uMzY3u2RMy_)
+3. [Cсылка на git](https://github.com/ZOORoman/MMO/blob/master/Lab4_MMO.ipynb)
+4. [pdf отчет](/Lab4_MMO.pdf)
+
 **Рубежный контроль №1**
 1. [Ссылка на colab](https://colab.research.google.com/gist/ZOORoman/1030bc7c357f9cb5ec3333975f03912f/rk_-1_bushuev.ipynb)
 2. [Ссылка на папку с данными](/lab1)
