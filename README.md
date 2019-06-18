@@ -30,13 +30,13 @@
 
 **Лабораторная работа №5**
 1. [Линейные модели, SVM и деревья решений.](https://github.com/ugapanyuk/ml_course/wiki/LAB_TREES)
-2. [Cсылка на colab](https://drive.google.com/open?id=1gk5YNQNhJnd8m8glktv-7uMzY3u2RMy_)
+2. [Cсылка на colab](https://colab.research.google.com/drive/1s_X8s78GBPlw7YFtwgCDe9v2Kck189JO)
 3. [Cсылка на git](https://github.com/ZOORoman/MMO/blob/master/Lab4_MMO.ipynb)
 4. [pdf отчет](/Lab4_MMO.pdf)
 
 **Лабораторная работа №6**
 1. [Ансамбли моделей машинного обучения.](https://github.com/ugapanyuk/ml_course/wiki/LAB_ENSEMBLES)
-2. [Cсылка на colab](https://drive.google.com/open?id=1gk5YNQNhJnd8m8glktv-7uMzY3u2RMy_)
+2. [Cсылка на colab](https://colab.research.google.com/drive/1RSuK-x6csua-vD6hM6Fxxaif-tD1ATp6)
 3. [Cсылка на git](https://github.com/ZOORoman/MMO/blob/master/Lab4_MMO.ipynb)
 4. [pdf отчет](/Lab4_MMO.pdf)
 
